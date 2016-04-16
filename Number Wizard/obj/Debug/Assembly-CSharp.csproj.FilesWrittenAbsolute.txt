@@ -1,0 +1,17 @@
+/Users/Marc/workspace/Unity/Udemy/Number Wizard/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Marc/workspace/Unity/Udemy/Number Wizard/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Marc/workspace/Unity/Udemy/Number Wizard/obj/Debug/Assembly-CSharp.dll
+/Users/Marc/workspace/Unity/Udemy/Number Wizard/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/Marc/workspace/Unity/Udemy/Number Wizard/Temp/bin/Debug/UnityEngine.dll
+/Users/Marc/workspace/Unity/Udemy/Number Wizard/Temp/bin/Debug/UnityEditor.dll
+/Users/Marc/workspace/Unity/Udemy/Number Wizard/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Marc/workspace/Unity/Udemy/Number Wizard/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Marc/workspace/Unity/Udemy/Number Wizard/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Marc/workspace/Unity/Udemy/Number Wizard/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Marc/workspace/Unity/Udemy/Number Wizard/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Marc/workspace/Unity/Udemy/Number Wizard/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Marc/workspace/Unity/Udemy/Number Wizard/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Marc/workspace/Unity/Udemy/Number Wizard/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Marc/workspace/Unity/Udemy/Number Wizard/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Marc/workspace/Unity/Udemy/Number Wizard/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Marc/workspace/Unity/Udemy/Number Wizard/Temp/bin/Debug/Mono.Cecil.Mdb.dll
